@@ -1,2 +1,2 @@
 ## Uso
-sudo bash automa.sh nome-do-pacote
+sudo bash vai.sh nome-pacote
