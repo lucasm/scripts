@@ -9,7 +9,7 @@ fi
 echo "Atualização realizada com sucesso!"
 
 echo "Atualizando pacotes já instalados..."
-if ! apt-get dist-upgrade -y
+if ! apt-get upgrade -y
 then
     echo "Não foi possível atualizar pacotes :("
     exit 1
